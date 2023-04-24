@@ -6,3 +6,14 @@
 - list1
 - list2
 - list3
+
+[URL](http://google.com)
+**Bold**
+*Italic*
+
+```js
+// Code Block
+const x = () => {
+  console.log("Hello");
+}
+```
